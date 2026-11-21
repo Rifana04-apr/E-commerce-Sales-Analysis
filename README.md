@@ -38,5 +38,3 @@ to prepare it for analysis.
 ## Conclusion
  - This assignment helped me gain hands on experience with Microsoft Power BI and understand the initial stages of the data analytics process, from importing raw data to prepare datasets for analysis.
 Thank you for reading My journey of learning Power BI.
- - 
- - .
